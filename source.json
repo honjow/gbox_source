@@ -8,26 +8,15 @@
     "sourceUpdateTime": "2021-10-20T23:00:00+0800",
     "sourceDescription": "一个 flutter 编写的 e-hentai app",
     "appCategories": [
-        "主页",
         "FEhViewer"
     ],
     "appRepositories": [
-        {
-            "appType": "LINK",
-            "appCateIndex": 0,
-            "appUpdateTime": "2020-10-20T23:00:00+0800",
-            "appName": "FEhViewer",
-            "appVersion": "1.0",
-            "appImage": "https://github.com/honjow/gbox_source/blob/master/image/fehviewer.png?raw=1",
-            "appLink": "https://github.com/honjow/FEhViewer",
-            "appDescription": "项目源码, 换源start"
-        },
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2021-02-03T17:00:00+0800",
             "appName": "FEhViewer",
-            "appVersion": "1.1.26_317",
+            "appVersion": "1.1.26",
             "appImage": "https://github.com/honjow/gbox_source/blob/master/image/fehviewer.png?raw=1",
             "appPlist": "https://github.com/honjow/FEhViewer/releases/download/1.1.26%2B317/feh_1.1.26_317.ipa",
             "appDescription": "一个 flutter 编写的 e-hentai app"
