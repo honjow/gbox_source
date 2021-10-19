@@ -13,7 +13,7 @@
     "appRepositories": [
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 0,
             "appUpdateTime": "2021-02-03T17:00:00+0800",
             "appName": "FEhViewer",
             "appVersion": "1.1.26",
